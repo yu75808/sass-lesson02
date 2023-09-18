@@ -1,0 +1,11 @@
+{
+	//vscodeの設定を加えるファイルです
+	"liveSassCompile.settings.generateMap": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/css"
+		}
+	]
+}
